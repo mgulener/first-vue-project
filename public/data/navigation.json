@@ -1,0 +1,38 @@
+[
+  {
+    "title": "World",
+    "url": "/world"
+  },
+  {
+    "title": "U.S.",
+    "url": "/us"
+  },
+  {
+    "title": "Technology",
+    "url": "/technology"
+  },
+  {
+    "title": "Design",
+    "url": "/design"
+  },
+  {
+    "title": "Culture",
+    "url": "/culture"
+  },
+  {
+    "title": "Business",
+    "url": "/business"
+  },
+  {
+    "title": "Politics",
+    "url": "/politics"
+  },
+  {
+    "title": "Opinion",
+    "url": "/opinion"
+  },
+  {
+    "title": "Science",
+    "url": "/science"
+  }
+]
