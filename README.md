@@ -1,4 +1,4 @@
-# admin
+# First Vue Project
 
 ## Project setup
 ```
